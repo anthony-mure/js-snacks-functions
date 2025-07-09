@@ -26,6 +26,7 @@ function newNames (names,firstLetter){
 
 // Invoca la funzione qui e stampa il risultato in console
 
+newNames(names,firstLetter);
 console.log(newNames(names,firstLetter));
 
 //Risultato atteso se si passa la lettera A: ["Anna", "Adele", "Alessandra"]

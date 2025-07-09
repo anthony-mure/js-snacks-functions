@@ -11,7 +11,7 @@ const word = 'javascript';
 //ciclo con for la variabile word per trovare :il numero di vocali contenute e le vocali stesse
 
 function vocalWord(word){
-  const vocals = "aeiou";
+  const vocals = "a,e,i,o,u";
   let numberVocals = 0;
   let vocalsFound = " ";
 
@@ -27,6 +27,7 @@ function vocalWord(word){
 }
 
 // Invoca la funzione qui e stampa il risultato in console
+
  vocalWord(word);
  console.log(vocalWord(word));
 

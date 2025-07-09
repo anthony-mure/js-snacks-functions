@@ -25,7 +25,7 @@ return letterArray;
 }
 
 // Invoca la funzione qui e stampa il risultato in console
-
+ newArray();
 console.log(newArray());
 
 //Risultato atteso: ["A", "L", "M", "A", "G", "A"]
