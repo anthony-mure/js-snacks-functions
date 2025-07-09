@@ -5,7 +5,7 @@ const userName = 'Mario';
 
 // Dichiara la funzione qui.
 function sayHello(name){
-  console.log  (`ciao ${name}`) ;
+   return (`ciao ${name}`) ;
 }
 
 // Invoca la funzione qui e stampa il risultato in console
